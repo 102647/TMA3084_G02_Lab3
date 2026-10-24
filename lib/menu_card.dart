@@ -1,8 +1,8 @@
- // TMA3084 - Software Engineering Laboratory
- // Lab Exercise 3.1 - Curry House
- // Component: MenuCard Widget
- // Developed by: Khanishya Dyana
- // Matric Number: 102647
+// TMA3084 - Software Engineering Laboratory
+// Lab Exercise 3.1 - Curry House
+// Component: MenuCard Widget
+// Developed by: Khanishya Dyana
+// Matric Number: 102647
 
 import 'package:flutter/material.dart';
 
